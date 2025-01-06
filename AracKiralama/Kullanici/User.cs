@@ -36,13 +36,4 @@ namespace AracKiralama
             }
         }
     }
-} // projeyi kurtardım ama ana formu silinmiş o yuzden tekrar anaform oluşturucam ama bu sefer ribbon eklenmiyor
-//Ana f0ormun adı neydi? AracKiralama
-
-//Projeyi nereye kopyalamıştın? masaüstüne kopyalamayı denedim sonra proje çalışmmaya basladı
-//Hallederiz muhtemelen Projeyi kesip mi yapıştırdın kopyalayıpo mı kopya projeyi kurtardım ama bişeyleri silmişim ana form kısım yok 
-//Evet Şu şekilde şimdi klasöre - dosyaya sağtıklayarak klasör konumuna gidiyorum
-
-//Sözleşme için .cs dosyası, .designerdosyası hepsi var ancak araçkilama için designer kaybolmuş
-//frm main yeni actıgım form  arackiralama formu silinmiş bende yeni form açmıştım
-//Araçkiralama yüklenmiş olmalı başarılı şekilde o zaman yukardaki kodu değiştireyim
+} 
